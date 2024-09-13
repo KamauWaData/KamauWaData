@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @KamauWaData
-- 👀 I’m interested in Artificial intelligence and Blockchain tech
-- 🌱 I’m currently learning AI in AWS Udacity Nano-degree program
-- 💞️ I’m looking to collaborate on any project in AI or decentralized apps
-  
-- 📫 How to reach me via email @kamaufrenchie@gmail.com
+The first colab is for analysis of global youtube channels. The dataset can be found here: https://drive.google.com/file/d/1U342aR1r6cbCFPoph60pX57BsAGDmFcS/view?usp=sharing
+
+The second colab is the prediction of sports winners,an excercise on the book, learning data minging with python by packt!
 
 <!---
 KamauWaData/KamauWaData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
